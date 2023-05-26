@@ -1,0 +1,1 @@
+Setelah menggunakan Workbox, maka file src->scripts->**sw.js** dan src->scripts->utils->**cache-helper.js** dapat dihapus karena tidak digunakan lagi.
